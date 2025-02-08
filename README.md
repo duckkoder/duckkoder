@@ -34,8 +34,7 @@
 - 🔥 ** PBL4_Smart-Waste-Classification-System** - Project involving hardware, software, and IoT integration.
 
 📫 **Connect with me:**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/duckkoder)
-- 📝 [LeetCode](https://leetcode.com/duckkoder)
-- 💬 [Codeforces](https://codeforces.com/profile/duckkoder)
+- 📝 [LeetCode](https://leetcode.com/Igughi)
+- 💬 [Codeforces](https://codeforces.com/profile/plsgivemeslt)
 
 🔥 Always learning, always coding! 🚀
