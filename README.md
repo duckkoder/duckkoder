@@ -8,12 +8,11 @@
 - 🎯 400+ problems solved on **LeetCode** & active on **Codeforces**  
 
 ### 🏆 LeetCode Progress:
-![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-api-faisalshohag.vercel.app/Igughi)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Igughi?theme=dark&font=Fira%20Code)](https://leetcode.com/Igughi)
 
 📊 **Bubble Chart:**  
-![LeetCode Progress](https://your-github-username.github.io/repository-name/)
+![LeetCode Progress](https://your-github-duckkoder.github.io/duckkoer/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Igughi?theme=dark&font=Fira%20Code)](https://leetcode.com/Igughi)
 
 
 ---
