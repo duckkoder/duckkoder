@@ -9,6 +9,9 @@
 - 🥉 Bronze Medal - **Olympic Tin Học Miền Trung - Tây Nguyên 2021**  
 - 🎯 400+ problems solved on **LeetCode** & active on **Codeforces**  
 
+### 🏆 LeetCode Progress:
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/duckkoder)](https://leetcode.com/duckkoder/)
+
 🛠 **Tech Stack:**
 - **Backend:** ASP.NET Core, C#, SQL Server, Flask, FastAPI
 - **Frontend:** Angular, TypeScript, HTML/CSS
