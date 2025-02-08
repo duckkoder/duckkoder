@@ -13,6 +13,9 @@
 📊 **Bubble Chart:**  
 ![LeetCode Progress](https://your-github-username.github.io/repository-name/)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Igughi?theme=dark&font=Fira%20Code)](https://leetcode.com/Igughi)
+
+
 ---
 
 🛠 **Tech Stack:**
