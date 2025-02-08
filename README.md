@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0AEFFF&vCenter=true&width=435&lines=Hello%2C+I'm+duckkoder!;Welcome+to+my+GitHub!;Fullstack+.NET+Developer!;Algorithm+Enthusiast!;Enjoy+coding!+%F0%9F%94%A5)
-
 # 👋 Hi there, I'm **duckkoder**
 
 🚀 Passionate about **.NET**, **C#**, **C++**, and **Algorithms**
@@ -10,7 +8,12 @@
 - 🎯 400+ problems solved on **LeetCode** & active on **Codeforces**  
 
 ### 🏆 LeetCode Progress:
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Igughi)](https://leetcode.com/Igughi/)
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-api-faisalshohag.vercel.app/Igughi)
+
+📊 **Bubble Chart:**  
+![LeetCode Progress](https://your-github-username.github.io/repository-name/)
+
+---
 
 🛠 **Tech Stack:**
 - **Backend:** ASP.NET Core, C#, SQL Server, Flask, FastAPI
