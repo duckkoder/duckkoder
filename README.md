@@ -10,7 +10,7 @@
 - 🎯 400+ problems solved on **LeetCode** & active on **Codeforces**  
 
 ### 🏆 LeetCode Progress:
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/duckkoder)](https://leetcode.com/duckkoder/)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Duckkoder)](https://leetcode.com/Duckkoder/)
 
 🛠 **Tech Stack:**
 - **Backend:** ASP.NET Core, C#, SQL Server, Flask, FastAPI
