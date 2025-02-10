@@ -10,11 +10,6 @@
 ### 🏆 LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Igughi?theme=dark&font=Fira%20Code)](https://leetcode.com/Igughi)
 
-📊 **Bubble Chart:**  
-![LeetCode Progress](https://your-github-duckkoder.github.io/duckkoer/)
-
-
-
 ---
 
 🛠 **Tech Stack:**
