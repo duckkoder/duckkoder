@@ -25,8 +25,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckkoder&layout=compact&theme=tokyonight)
 
 🎯 **Notable Projects:**
-- 🛒 **eShopSolution** - E-commerce platform built with ASP.NET Core.
-- 🔥 ** PBL4_Smart-Waste-Classification-System** - Project involving hardware, software, and IoT integration.
+- 🛒 **FashionShop** - E-commerce platform built with ASP.NET Core.
+- 🔥 **PBL4_Smart-Waste-Classification-System** - Project involving hardware, software, and IoT integration.
 
 📫 **Connect with me:**
 - 📝 [LeetCode](https://leetcode.com/Igughi)
