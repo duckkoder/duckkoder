@@ -3,7 +3,7 @@
 🚀 Passionate about **.NET**, **C#**, **C++**, and **Algorithms**
 
 🏆 **Achievements:**  
-- 🥉 Bronze Medal - **ICPC 2022 (Non-Specialized)** at Da Nang University of Science and Technology  
+- 🥉 Bronze Medal - **ICPC 2022** at Da Nang University of Science and Technology  
 - 🥉 Bronze Medal - **Olympic Tin Học Miền Trung - Tây Nguyên 2021**  
 - 🎯 400+ problems solved on **LeetCode** & active on **Codeforces**  
 
