@@ -16,7 +16,7 @@
 - **Backend:** ASP.NET Core, C#, SQL Server, Flask, FastAPI
 - **Frontend:** Angular, TypeScript, HTML/CSS
 - **Database:** SQL Server, SQLite
-- **Tools:** Git, Docker, Azure
+- **Tools:** Git
 
 📈 **GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duckkoder&show_icons=true&theme=tokyonight)
